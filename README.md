@@ -10,3 +10,5 @@ Kelompok:
 - M Farrel Danendra Rachim (ITB)
 - Moh Aghna Maysan Abyan (ITB)
 - Satria Octavianus Nababan (ITB)
+
+Sumber data: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
