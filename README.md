@@ -12,3 +12,5 @@ Kelompok:
 - Satria Octavianus Nababan (ITB)
 
 Sumber data: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+Notebook Kaggle: https://www.kaggle.com/code/farreldr/prediksi-resiko-late-delivery-dataco-supply-chain
